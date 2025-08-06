@@ -16,6 +16,12 @@ SERVICE_VERSIONS = {
             "1.1.3",
             "1.0.1"
         ]
+    },
+    "common-utils": {
+        "versions": [
+            "1.0.0",
+            "2.0.0"
+        ]
     }
 }
 
